@@ -1,17 +1,17 @@
 +++
-title = "Publications"
-description = "This page features a list of publications about and based on museum-digital."
+title = "Публикации"
+description = "TНа этой странице представлен список публикаций, посвященных museum-digital. "
 
 [extra]
-keywords = "museum-digital, Research, Academy, Publications"
+keywords = "museum-digital, исследования, академия, публикации"
 banner_image = "/data/img/banners/british_library_hyroglyph.jpg"
 banner_image_alt = "Internet Archive Book Images. Image from page 518 of 'Bell telephone magazine' (1922). Identifier: belltelephone6667mag00amerrich."
 html_id = "publications"
 +++
 
-## Publications about museum-digital
+## Публикации о museum-digital
 
-Besides providing infrastructure, museum-digital's flexibility and non-profit nature invites experimentation and provides ample opportunities for research. Over the years, a number of publications have been published on or based on museum-digital. You can find a list of these publications below.
+Помимо предоставления инфраструктуры, универсальности и некоммерческого характер, museum-digital приглашает к экспериментированию и предоставляет широкие возможности для исследований. За прошедшие годы был опубликован ряд работ, посвященных museum-digital или основанных на нём. Список этих публикаций приведен ниже.
 
 - Krause, M. & Hartmann, M. (2022). "museum-digital" für Westfalen-Lippe und OWL: Museumsobjekte im Internet - Initiative, Software-Suite und Plattform. Heimat Westfalen, 6/2022, 18-22.
 - Wegerhoff, C. (2019). Museum digital: Hochauflösend statt Karteikasten [Radio-Feature]. WDR 5 Quarks - Hintergrund. https://www1.wdr.de/mediathek/audio/wdr5/quarks/hintergrund/audio-museum-digital-hochaufloesend-statt-karteikasten-100.html
