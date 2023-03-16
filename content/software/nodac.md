@@ -45,8 +45,8 @@ nodac способен работать с несколькими полииер
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/nodac/Screenshot_nodac_02_Overview_Actors.png",
-    image_alt="Страница обзора для актеров".
-    ) %} Страницы обзора отображают текущий прогресс в курировании данного контролируемого словаря в виде текста и графиков. Все метрики доступны для поиска.{% end %}
+    image_alt="Страница обзора для актеров"
+    ) %}Страницы обзора отображают текущий прогресс в курировании данного контролируемого словаря в виде текста и графиков. Все метрики доступны для поиска.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/nodac/Screenshot_nodac_03_Search_Tags.png",
