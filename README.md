@@ -1,8 +1,8 @@
-# English-language Homepage for Presenting museum-digital
+# Russian-language Homepage for Presenting museum-digital
 
 ## Purpose of this Website
 
-This website is to give an overall image of museum-digital and the various linked endeavours.
+This website is to give an overall image of museum-digital and the various linked endeavours. A rendered version can be found at [ru.about.museum-digital.org](https://ru.about.museum-digital.org/)
 
 ## Setup
 
