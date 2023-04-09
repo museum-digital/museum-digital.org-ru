@@ -50,7 +50,7 @@ museum-digital был основан для публикации информа�
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-Startpage.jpg",
     image_alt=""
-    ) %}Start page of the German national portal of museum-digital.{% end %}
+    ) %}Стартовая страница немецкого национального портала museum-digital.{% end %}
 
 {% museumdigital_preview_tile_figure(
     image="/data/img/Screenshots/Ausgabe/Screenshot-Frontend-ExtendedSearch.jpg",
@@ -141,8 +141,8 @@ museum-digital был основан для публикации информа�
     ],
     [
         'oEmbed',
-        'for referencing object, series, and institution pages',
-        'oEmbed is a standard for describing the preferred way to embed a page in another. Using oEmbed, object, institution and series pages can be referenced in - e.g. - WordPress blog posts in a breeze.',
+        'для ссылок на страницы объектов, серий и учреждений',
+        'oEmbed - это стандарт для описания предпочтительного способа встраивания одной страницы в другую. Используя oEmbed, страницы объектов, учреждений и серий можно легко ссылаться на них, например, в постах блога WordPress.',
     ],
     [
         'TEI',
@@ -157,7 +157,7 @@ museum-digital был основан для публикации информа�
     [
         'RSS',
         'for staying up-to-date',
-        "Where objects, events, or exhibitions are listed, museum-digital's frontend generates an RSS feed. These feeds can be subscribed to using a feed reader.",
+        "Если объекты, события или выставки помещены в список, фронтенд museum-digital генерирует RSS-канал. На эти каналы можно подписаться с помощью программы для чтения каналов.",
     ],
     [
         'JSON-LD',
@@ -184,11 +184,11 @@ museum-digital был основан для публикации информа�
 
 ----
 
-{{ build_faq_list(title = "FAQ") }}
+{{ build_faq_list(title = "Часто задаваемые вопросы") }}
 
 ----
 
-### Resources
+### Ресурсы
 
 {{ museumdigital_linktiles_list_start() }}
 

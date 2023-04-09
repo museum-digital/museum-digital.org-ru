@@ -1,9 +1,9 @@
 +++
 title = "musdb"
-description = "musdb is museum-digital's tool for collection management. It has in many ways developed into a more general museum-management tool."
+description = "musdb - это инструмент museum-digital для управления собраниями. Во многом он превратился в более общий инструмент управления музеем."
 
 [extra]
-keywords = "musdb, Museum Management, Inventory, Software, Collection Management System"
+keywords = "musdb, управление музеем, инвентаризация, программное обеспечение, система управления собраниями"
 banner_image = "/data/img/banners/usda_nrcs_montana_snow_survey65.jpg"
 banner_image_alt = "Public domain / US gov't work. USDA NRCS Montana / Snow Survey65.tif / Man working on computer, analyzing data, 1977."
 html_id = "musdb"
@@ -149,7 +149,7 @@ Musdb основан на PHP8 и MySQL. Используется ряд биб�
 {{ build_accordion_lr_section(title = "Особенности и основные понятия", items = [
     [
         "Централизованные контролируемые словари",
-        "All museums working with musdb use one set of controlled vocabularies for linked actors, places, times, and tags. The work for enriching such concepts with translations, links to the common norm data repositories etc. thus only needs to be done once - and everybody immediately profits from having accessible those entries that have already been entered for another museum beforehand."
+        "Все музеи, работающие с musdb, используют один набор контролируемых словарей для связанных действующих лиц, мест, времени и тегов. Таким образом, работу по обогащению таких понятий переводами, ссылками на общие хранилища нормативных данных и т.д. нужно проделать только один раз - и все сразу же получают возможность доступа к тем записям, которые уже были введены для другого музея заранее."
     ],
     [
         "Экспорт",

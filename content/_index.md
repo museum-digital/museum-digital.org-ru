@@ -1,6 +1,6 @@
 +++
 title = "museum-digital"
-description = "Стартовая страница страницы проекта museum-digital"
+description = "Стартовая страница проекта museum-digital"
 template = "startpage.html"
 
 [extra]
@@ -72,6 +72,6 @@ museum-digital - это инициатива, программное обесп�
 
 ----
 
-## Calendar
+## Календарь
 
-{{ calendar_upcoming_events(cal_directory="/about/calendar/", hl_all="Upcoming events", hl_local="Upcoming events in Russian or Ukrainian", feed_all="upcoming_events", feed_local="upcoming_events_local") }}
+{{ calendar_upcoming_events(cal_directory="/about/calendar/", hl_all="Предстоящие события", hl_local="Предстоящие события на украинском или русском языке", feed_all="upcoming_events", feed_local="upcoming_events_local") }}
