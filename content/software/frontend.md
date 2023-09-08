@@ -196,9 +196,9 @@ museum-digital был основан для публикации информа�
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="") %}Страницы справочника (на немецком языке){% end %}
 
-{% museumdigital_linktiles_tile(link="https://nat.museum-digital.de/index.php?t=text&st=api",
+{% museumdigital_linktiles_tile(link="https://global.museum-digital.org/swagger/",
     image="/data/img/icons/more.svg",
-    image_alt="") %}Краткое введение в API{% end %}
+    image_alt="") %}API-документация{% end %}
 
 {{ museumdigital_linktiles_list_end() }}
 
