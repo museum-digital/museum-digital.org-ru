@@ -123,7 +123,20 @@ html_id = "people"
 Д-р Штефан Роде-Энслин уже почти 20 лет занимается вопросами оцифровки и долгосрочного архивирования в музейном секторе в Институте музейных исследований Государственных музеев Берлина.
 
 Помимо этого, он участвовал в разработке проекта museum-digital - в непосредственном сотрудничестве с музеями и их ассоциациями - с момента его основания в 2009 году. Он разработал первые рабочие итерации многих инструментов museum-digital, но сейчас в основном занимается контролируемыми словарями и тренингами, когда речь идет о museum-digital.
+{% end %}
 
+{% people_tile(name="Vera Kudlinski",
+    role="Regional administrator in Hesse, Germany",
+    mail="vera.kudlinski@museumsverband-hessen.de",
+    homepage="",
+    feed_page="",
+    feed_url="",
+    image="/data/img/people/VeraKudlinski_RightsReserved.png",
+    image_licence="Alle Rechte vorbehalten",
+    image_creator="") %}
+Fachreferentin für digitales Sammlungsmanagement beim Museumsverband Hessen.
+
+The museum association of Hessen regularly hosts trainings on the use of museum-digital for collection management and answers questions regarding museum-digital for museums in Hesse, Germany.
 {% end %}
 
 {{ museumdigital_linktiles_list_end() }}
