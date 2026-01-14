@@ -63,6 +63,10 @@ og_image = "/data/img/logos/themator-512.png"
     image="/data/img/logos/themator-128.png",
     image_alt="Logo") %}Тематор (на венгерском языке){% end %}
 
+{% museumdigital_linktiles_tile(link="https://ua-themator.museum-digital.org/",
+    image="/data/img/logos/themator-128.png",
+    image_alt="Logo") %}Тематор{% end %}
+
 {% museumdigital_linktiles_tile(link="https://de.handbook.museum-digital.info/Themator/index.html",
     image="/data/img/logos-ext/mdBook.svg",
     image_alt="Logo") %}Справочник по тематору (на немецком языке){% end %}
